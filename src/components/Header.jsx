@@ -1,13 +1,13 @@
 import React from "react";
 import { Menu, Input } from "semantic-ui-react";
 
-const Header = () => {
+function Header() {
   return (
     <Menu secondary style={{ padding: "1em" }}>
       <Menu.Item header>DEV@Deakin</Menu.Item>
       <h5>
         <span style={{ fontSize: "0.8em", marginLeft: "0.5em", color: "#888" }}>
-          By kartik sharma
+          By Kartik Sharma
         </span>
       </h5>
       <Menu.Item>

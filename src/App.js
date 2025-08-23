@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "./components/Header";
-import Hero from "./components/Hero";
+import Banner from "./components/Banner";
 import FeaturedArticles from "./components/FeaturedArticles";
 import Tutorials from "./components/Tutorials";
 import Subscribe from "./components/Subscribe";
@@ -25,7 +25,7 @@ function App() {
   return (
     <div>
       <Header />
-      <Hero />
+      <Banner />
       <FeaturedArticles articles={articles} />
       <Tutorials tutorials={tutorials} />
       <Subscribe />

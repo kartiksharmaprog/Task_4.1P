@@ -1,7 +1,7 @@
 import React from "react";
 import { Grid, List, Icon } from "semantic-ui-react";
 
-const Footer = () => {
+function Footer() {
   return (
     <div style={{ background: "#007d8c", color: "white", padding: "2em" }}>
       <Grid columns={3} divided>

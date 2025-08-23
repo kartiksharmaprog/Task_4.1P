@@ -1,7 +1,7 @@
 import React from "react";
 import { Input, Button } from "semantic-ui-react";
 
-const Subscribe = () => {
+function Subscribe(){
   return (
     <div style={{ padding: "2em", background: "#f5f5f5" }}>
       <div style={{ display: "flex", gap: "1em" }}>
