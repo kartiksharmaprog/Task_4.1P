@@ -41,7 +41,7 @@ function Footer() {
       </Grid>
 
       <div style={{ textAlign: "center", marginTop: "2em" }}>
-        <p>DEV@Deakin 2022</p>
+        <p>DEV@Deakin 2025</p>
         <p>Privacy Policy | Terms | Code of Conduct</p>
       </div>
     </div>
